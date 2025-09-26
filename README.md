@@ -21,7 +21,7 @@
 
 <td width="40%">
 <!-- Coloque sua imagem aqui -->
-<img src="URL_DA_SUA_IMAGEM" alt="Minha foto" width="100%">
+<img src="https://www.bing.com/images/search?view=detailV2&ccid=a47V5dqJ&id=D46A41940B844E36C1A1AD22563374668BE493BD&thid=OIP.a47V5dqJBGBSg3HQ4-uhxwHaEF&mediaurl=https%3a%2f%2fwww.icegif.com%2fwp-content%2fuploads%2f2023%2f09%2ficegif-898.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.6b8ed5e5da890460528371d0e3eba1c7%3frik%3dvZPki2Z0M1YirQ%26pid%3dImgRaw%26r%3d0&exph=284&expw=514&q=gif+messi+beijo&FORM=IRPRST&ck=B9B855249D73BA7362D7C30C2D17813F&selectedIndex=7&itb=0" alt="Minha foto" width="100%">
 </td>
 </tr>
 </table>
