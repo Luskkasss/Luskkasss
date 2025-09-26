@@ -1,15 +1,3 @@
-Que excelente ideia! Unir o lado "tryhard e clean" do desenvolvimento de software com as artes visuais cria um perfil de GitHub super diferenciado e profissional.
-
-Para conseguir o efeito de imagem lateral (ou alinhada) e um design clean, usaremos Markdown com um toque de HTML, que o GitHub Profile README suporta.
-
-Aqui está um modelo de código README.md que combina suas habilidades em Python, Blender, Premiere, Photoshop e After Effects, com um visual impactante.
-
-💻 Código de Personalização Tryhard & Clean
-Crie um repositório com o mesmo nome do seu usuário do GitHub e adicione o arquivo README.md com este conteúdo.
-
-1. Estrutura do README.md
-Markdown
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RtcW9hNGY0enNreDRnNHN4OHFhM3VlZm54a2gyNnJvNjFqZ3J1OCZlcD12aXN1YWxpemVkX3VzZXImY3Q9Zw/qg7g3K3925c4v6y2Jd/giphy.gif" width="100"/>
 </div>
