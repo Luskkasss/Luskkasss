@@ -8,6 +8,11 @@
 <tr>
 <td width="60%">
 
+## 🚀 Sobre mim
+- 💻 Foco em **Python, C#, React e Blender**  
+- 🎮 Desenvolvimento de jogos, bots e aplicações web  
+- 🛠️ Apaixonado por tecnologia e otimização de código  
+- 🌱 Sempre aprendendo novas linguagens e ferramentas  
 
 ### 🌐 Conecte-se
 <p align="center">
