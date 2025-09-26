@@ -1,56 +1,37 @@
+# 👋 Olá, eu sou Lucas Monteiro
 
-<h2 align="left">Hello World, I'm ... Welcome to my profile!</h2>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&color=00ff00&center=true&vCenter=true&width=600&height=50&lines=Python+|+Blender+|+Premiere+|+After+Effects+|+Photoshop)
 
-### Não esqueça de mudar os links usando o seu user neles.
+---
 
 <table>
-  <tr>
-    <td>
-      <a href="https://github.com/v1ih">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=v1ih&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/v1ih">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1ih&layout=compact&langs_count=6&theme=tokyonight"/>
-      </a>
-    </td>
-  </tr>
+<tr>
+<td width="60%">
+## 🚀 Sobre mim
+- 💻 Foco em **Python, Blender, Premiere, After Effects e Photoshop**  
+- 🎮 Desenvolvimento de projetos 3D, edição de vídeo e automações  
+- 🌱 Sempre aprendendo novas técnicas e ferramentas  
+
+## 📊 Minhas stats do GitHub
+![Lucas Monteiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+
+## 🏆 Top linguagens
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+</td>
+
+<td width="40%">
+<!-- Coloque sua imagem aqui -->
+<img src="URL_DA_SUA_IMAGEM" alt="Minha foto" width="100%">
+</td>
+</tr>
 </table>
 
-###
+## 💼 Projetos em destaque
+- [🔥 Projeto 1](https://github.com/SEU_USUARIO/projeto1) - Descrição rápida
+- [🎯 Projeto 2](https://github.com/SEU_USUARIO/projeto2) - Descrição rápida
+- [⚡ Projeto 3](https://github.com/SEU_USUARIO/projeto3) - Descrição rápida
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVkZHk1ZXV6aDd4MXl6a3AwY2RuY3h5cXk0dWhkdnJqbG9zY3M2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif"  />
-
-### 🛠️ Technologies and Skills
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-</div>
-
-###
-
-<div> 
-  <a href="mailto:freelancejobslfn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/laviniaferraz-v1ih/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" />
-</picture>
+## 📫 Contato
+- Discord: `SeuUsuario#1234`
+- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seu-perfil/)
+- Email: seuemail@gmail.com
