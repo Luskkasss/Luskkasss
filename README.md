@@ -1,56 +1,13 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RtcW9hNGY0enNreDRnNHN4OHFhM3VlZm54a2gyNnJvNjFqZ3J1OCZlcD12aXN1YWxpemVkX3VzZXImY3Q9Zw/qg7g3K3925c4v6y2Jd/giphy.gif" width="100"/>
-</div>
+# 👋 Olá, eu sou Lucas Monteiro
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME_GITHUB&style=for-the-badge&color=D9D9D9" alt="Visualizações do Perfil">
-</div>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&color=00ff00&center=true&vCenter=true&width=600&height=50&lines=Python+|+Blender+|+Premiere+|+After+Effects+|+Photoshop)
 
 ---
 
-<table style="width: 100%;">
-  <tr>
-    <td style="width: 30%; vertical-align: top; padding-right: 20px;">
-        <div align="center">
-            <img src="URL_DA_SUA_IMAGEM_AQUI" alt="Render 3D ou VFX Pessoal" style="width: 100%; max-width: 250px; border-radius: 8px;">
-            <br/>
-            <h3 style="margin-top: 10px;">O Arquiteto Digital</h3>
-            <p style="font-size: 0.8em; color: #808080;">#PythonDev #MotionDesign</p>
-        </div>
-    </td>
+<table>
+<tr>
+<td width="60%">
 
-    <td style="width: 70%; vertical-align: top;">
-      
-      # Olá! Eu sou [Seu Nome/Nickname] 👋
-      
-      ## 🧠 Full-Stack Criativo
-      
-      Desenvolvedor Python focado em automação e back-end, mas com a mente sempre nas artes visuais. Transformo dados em narrativas e código em arte, dominando o pipeline que vai do script à entrega final.
-      
-      > "Se não dá para automatizar, dá para animar."
-      
-      ### 🛠️ Minhas Ferramentas de Trabalho (Onde o Código Encontra a Arte)
-      
-      | Categoria | Habilidades |
-      | :--- | :--- |
-      | **Desenvolvimento** | `Python` (Automação, Data) - `Git` - `Scripting` (p/ Softwares) |
-      | **Design 3D/VFX** | **Blender** (Modelagem, Render) - **After Effects** (Motion Graphics, VFX) |
-      | **Edição/Pós** | **Adobe Premiere** (Corte, Cor) - **Adobe Photoshop** (Tratamento, Assets) |
-      
-      <br>
-
-      ### 📊 Estatísticas (Onde o Tryhard Brilha)
-      
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_GITHUB&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME_GITHUB&layout=compact&theme=buefy&hide_border=true&langs_count=6&exclude_repo=YOUR_FORKED_REPO" alt="Linguagens Mais Usadas" />
-      </p>
-      
-    </td>
-  </tr>
-</table>
-
----
 
 ### 🌐 Conecte-se
 <p align="center">
