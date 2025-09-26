@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou Lucas Monteiro
-
+#------------------------------------------- SKILLS ---------------------------------------------------------
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&color=00ff00&center=true&vCenter=true&width=900&height=50&lines=Python+|+Blender+|+Premiere+|+After+Effects+|+Photoshop)
 
 ---
